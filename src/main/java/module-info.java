@@ -10,7 +10,5 @@ module com.putterfly.simp_krip {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
 
-    opens com.putterfly.simp_krip to javafx.fxml;
     exports com.putterfly.simp_krip.app;
-    opens com.putterfly.simp_krip.app to javafx.fxml;
 }

@@ -112,7 +112,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.putterfly.simp_krip/com.putterfly.simp_krip.app.Application</mainClass>
+                            <mainClass>com.putterfly.simp_krip.app.Application</mainClass>
                         </configuration>
                     </execution>
                 </executions>
